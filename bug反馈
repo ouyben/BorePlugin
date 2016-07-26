@@ -1,0 +1,8 @@
+你好, 首先先感谢你写的这个插件带来方便!
+
+发现2个bug:
+1, 已经find了的控件, 在下次使用initView过程中, 还会再次find, 能不能已经找到了的控件就不要再次去初始化了
+2, 使用edittext的时候, edittext会setOnClickListener, 这个应该没什么用吧!
+
+
+
